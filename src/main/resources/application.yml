@@ -1,6 +1,0 @@
-server:
-  # \u7AEF\u53E3
-  port: 8889
-  servlet:
-    # \u6620\u5C04\u8DEF\u5F84
-    context-path: /lychee-spark-wechat
